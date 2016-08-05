@@ -1,5 +1,5 @@
 # All invites with 2 guests
-%matplotlib inline 
+# %matplotlib inline
 from numpy.random import binomial
 from numpy import mean, std
 import matplotlib.pyplot as plt
